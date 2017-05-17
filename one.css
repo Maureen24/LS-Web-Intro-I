@@ -1,0 +1,28 @@
+.red-top{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+}
+.yellow-right{
+    background-color: yellow;
+    width: 10%;
+    height: 145%;
+    float:right;
+}
+.yellow-left {
+    background-color: yellow;
+    width: 10%;
+    height: 145%;
+    float: left;
+}
+.blue-center{
+    background-color: blue;
+    width: 100%;
+    height: 130%;
+}
+.green-bottom{
+    background-color: green;
+    width: 80%;
+    height: 15%;
+    margin: 0 auto;
+}
